@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suresh Bhul</h1>
-<h2 text-color="green" align="center">A passionate web developer from Nepal</h2>
+<h2 align="center">A passionate web developer from Nepal</h2>
 <img align="right" alt="coding"width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sureshbhul402&label=Profile%20views&color=0e75b6&style=flat" alt="sureshbhul402" /> </p>
